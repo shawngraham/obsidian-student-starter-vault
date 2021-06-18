@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "f2805298234882a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6fe7f9cfdca51ec",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93d57be48d94e8b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ecdabe699524f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b892a6a3a537f8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "257ee3925c50a98f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60ca57ecc2f5aedd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b35d4677b1ed652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "467d6fec88001715",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55c986e5eec7e504",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6fe7f9cfdca51ec",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "images-for-ocr/e001518030.jpg",
+    "_complex-templates/ocr.md",
+    "A starter vault for student research.md",
+    "0 getting started/zotero to obsidian workflow.md",
+    "0 getting started/how to configuring hypothesis to obsidian.md",
+    "0 getting started/how to configure citation template.md",
+    "0 getting started/how to  configure simple templates.md",
+    "_main_idea_note.md",
+    "getting started/zotero to obsidian workflow.md"
+  ]
+}
