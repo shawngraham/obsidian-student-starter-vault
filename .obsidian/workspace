@@ -7,8 +7,11 @@
         "id": "b6fe7f9cfdca51ec",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -96,6 +101,8 @@
   },
   "active": "b6fe7f9cfdca51ec",
   "lastOpenFiles": [
+    "readme.md",
+    "0 getting started/1 Plugins to install.md",
     "Untitled.md",
     "images-for-ocr/e001518030.jpg",
     "_complex-templates/ocr.md",
@@ -103,8 +110,6 @@
     "0 getting started/zotero to obsidian workflow.md",
     "0 getting started/how to configuring hypothesis to obsidian.md",
     "0 getting started/how to configure citation template.md",
-    "0 getting started/how to  configure simple templates.md",
-    "_main_idea_note.md",
-    "getting started/zotero to obsidian workflow.md"
+    "0 getting started/how to  configure simple templates.md"
   ]
 }
