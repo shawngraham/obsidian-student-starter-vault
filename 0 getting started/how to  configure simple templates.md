@@ -1,3 +1,15 @@
+A template is a file that gets copied into a new note. 
+
+Make a new empty note. 
+
+Select 'insert template'. Right now, your choices are 'atomic note' and 'project note'. 
+
+Your choice will get inserted into the empty note; this will ensure consistency in your note taking. 
+
+If you don't like the headings etc, you can find the templates in the `_templates` folder and can modify them how you like.
+
+## installing from scratch
+
 core plugin
 -turn on template
 -make a folder in your vault to hold the template

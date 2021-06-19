@@ -1,1 +1,1 @@
-{"command_timeout":5,"template_folder":"_complex-templates","templates_pairs":[["ocr","/usr/local/bin/tesseract \"$ocr_input\" -"],["",""]],"trigger_on_file_creation":false,"enable_system_commands":true,"shell_path":""}
+{"command_timeout":5,"template_folder":"_complex-templates","templates_pairs":[["ocr","/usr/local/bin/tesseract \"$ocr_input\" -"],["ocr_win","powershell tesseract \"%ocr_input%\" -"]],"trigger_on_file_creation":false,"enable_system_commands":true,"shell_path":""}
