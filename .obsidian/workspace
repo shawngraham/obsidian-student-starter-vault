@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 observations/lorem.md",
+            "file": "0 getting started/Configuring the similar notes template.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 observations/lorem.md",
+                "file": "0 getting started/Configuring the similar notes template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 observations/lorem.md",
+                "file": "0 getting started/Configuring the similar notes template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -101,6 +101,7 @@
   },
   "active": "62925a1547cafd74",
   "lastOpenFiles": [
+    "0 getting started/Configuring the similar notes template.md",
     "2 observations/lorem.md",
     "2 observations/ipsum.md",
     "_complex-templates/related.md",
@@ -109,7 +110,6 @@
     "0 getting started/finding connections.md",
     "0 getting started/configuring OCR for Mac.md",
     "0 getting started/configuring OCR for Windows.md",
-    "0 getting started/Configuring the similar notes template.md",
     "2 observations/dolor.md"
   ]
 }

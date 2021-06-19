@@ -16,25 +16,27 @@ Assumption: for Mac or Windows, I am assuming that you already have Python insta
 
 Open a command prompt or terminal **in the student-starter-vault folder**. On Windows, you can find the folder in your file explorer; type `cmd` in the address bar once you've got the folder displayed. On Mac, if you haven't done this before [here are some instructions with illustrations](https://www.stugon.com/open-terminal-in-current-folder-location-mac/); if you have, then you can right-click on the folder name in your Finder, and 'open terminal at folder.'
 
-Once the terminal opens, **double-check where you are currently working** by typing ON MAC: `$pwd` ON WINDOWS `dir`.  If you're not in the `student-starter-vault`, you're in the wrong place. 
+Once the terminal opens, **double-check where you are currently working** by typing ON MAC: `$ pwd` ON WINDOWS `dir`.  If you're not in the `student-starter-vault`, you're in the wrong place (remember, the `$` sign is a convention indicating that what follows is to be entered at the command prompt or terminal prompt). 
 
-At the command prompt or the terminal (remember, the `$` sign is a convention indicating that what follows is to be entered at the command prompt or terminal prompt):
+At the command prompt or the terminal:
 
-`$conda create -n obsidian python=3.8`
+`$ conda create -n obsidian python=3.8`
 
 This creates an installation of python in an environment we are creating just for working with our vault; we've called the installation 'obsidian'.
 
-`$conda activate obsidian`
+`$ conda activate obsidian`
 
 This turns that environment on; any python we run at this point will install things into the `obsidian` environment. On my machine, this means that the python command is located at `/Users/shawngraham/opt/anaconda3/envs/obsidian/bin/python` .  You can find this by typing
 
-mac: `$which python`
+mac: `$ which python`
 
-windows: `$where python`
+windows: `$ where python`
 
-Another option, on both platforms, is: `conda info --envs`
+Another option, on both platforms, is: `$ conda info --envs`
 
-Take note of that information. In obsidian, got to the plugin settings for templater, and add another **user function** called `sim` ; place this text in **with the location of your python as determined above**, as the function:
+Take note of that information. In obsidian, got to the plugin settings for templater, and add another **user function** called `sim` ; 
+
+Place the following text in **with the location of your python as determined above**, as the value for the `sim` function:
 
 `/Users/shawngraham/opt/anaconda3/envs/obsidian/bin/python similarity.py "$sim_input" `
 
@@ -46,13 +48,15 @@ That's mine. Yours will be at /your-name/ etc, right?
 
 Now, at the command line where you created and then activated the `obsidian` environment, we're going to install the python packages that we need:
 
-`$pip install -r requirements.txt`
+`$ pip install -r requirements.txt`
 
 When that finishes, we need to get a language model file:
 
-`python3 -m spacy download en`
+`$ python3 -m spacy download en`
 
-When that finishes, we're going to get some stopwords and a few other things with the `prep-for-similarity.py` file I created and which is in this vault. 
+When that finishes, we're going to get some stopwords and a few other things with the `prep-for-similarity.py` file I created and which is in this vault. At the command prompt/terminal enter:
+
+`$ python prep-for-similarity.py`
 
 ## Final Step
 
@@ -70,6 +74,6 @@ rootdir = "C:\Users\Draykoth\Documents\student-starter-vault\" #PUT THE DIRECTOR
 
 ## Enjoy 
 
-Now, on an open note (at the cursor) you can select the `<%` button from the toolbar, choose `related` and select whichever file in your vault you want to find similar notes for.
+Now, with Obsidian open on a note of interest, put your cursor at the end of the note and select the `<%` button from the toolbar. Choose `related` and select whichever file in your vault you want to find similar notes for.
 
 Caveat: I haven't tested this on a windows machine yet, June 19 2021.
