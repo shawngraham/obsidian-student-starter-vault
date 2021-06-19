@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6fe7f9cfdca51ec",
+        "id": "db74be34d84ba642",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "finding connections.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finding connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "finding connections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -99,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6fe7f9cfdca51ec",
+  "active": "db74be34d84ba642",
   "lastOpenFiles": [
     "Untitled.md",
+    "readme.md",
+    "_complex-templates/ocr-win.md",
+    "finding connections.md",
     "0 getting started/1 Plugins to install.md",
     "0 getting started/configuring OCR for Mac.md",
     "0 getting started/configuring OCR for Windows.md",
     "0 getting started/zotero to obsidian workflow.md",
     "0 getting started/how to ocr an image.md",
-    "0 getting started/how to configuring hypothesis to obsidian.md",
-    "0 getting started/how to configure citation template.md",
-    "0 getting started/how to  configure simple templates.md",
-    "1 reading notes/@bennettEnchantmentModernLife2001.md"
+    "0 getting started/how to configuring hypothesis to obsidian.md"
   ]
 }
