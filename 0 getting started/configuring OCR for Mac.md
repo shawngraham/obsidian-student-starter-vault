@@ -1,5 +1,7 @@
 ## Configuring OCR for Mac
 
+- this script comes from [obsidian user pmbauer](https://forum.obsidian.md/t/basic-ocr-in-obsidian/18087)
+
 - open the terminal (spotlight search 'terminal')
 - Assuming you have homebrew installed, type `brew install tesseract`
 - And you're done. See [[how to ocr an image]]

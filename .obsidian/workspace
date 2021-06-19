@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "db74be34d84ba642",
+        "id": "62925a1547cafd74",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "2 observations/lorem.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "2 observations/lorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "2 observations/lorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db74be34d84ba642",
+  "active": "62925a1547cafd74",
   "lastOpenFiles": [
-    "readme.md",
+    "2 observations/lorem.md",
+    "2 observations/ipsum.md",
+    "_complex-templates/related.md",
+    "2 observations/amet.md",
     "A starter vault for student research.md",
-    "Untitled.md",
-    "_complex-templates/ocr-win.md",
-    "finding connections.md",
-    "0 getting started/1 Plugins to install.md",
+    "0 getting started/finding connections.md",
     "0 getting started/configuring OCR for Mac.md",
     "0 getting started/configuring OCR for Windows.md",
-    "0 getting started/zotero to obsidian workflow.md",
-    "0 getting started/how to ocr an image.md"
+    "0 getting started/Configuring the similar notes template.md",
+    "2 observations/dolor.md"
   ]
 }
