@@ -7,8 +7,11 @@
         "id": "db74be34d84ba642",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -96,15 +101,15 @@
   },
   "active": "db74be34d84ba642",
   "lastOpenFiles": [
-    "Untitled.md",
     "readme.md",
+    "A starter vault for student research.md",
+    "Untitled.md",
     "_complex-templates/ocr-win.md",
     "finding connections.md",
     "0 getting started/1 Plugins to install.md",
     "0 getting started/configuring OCR for Mac.md",
     "0 getting started/configuring OCR for Windows.md",
     "0 getting started/zotero to obsidian workflow.md",
-    "0 getting started/how to ocr an image.md",
-    "0 getting started/how to configuring hypothesis to obsidian.md"
+    "0 getting started/how to ocr an image.md"
   ]
 }
