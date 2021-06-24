@@ -6,6 +6,8 @@ The idea is that you keep one idea in one note. But by linking text as appropria
 
 When you open the links panel, Obsidian will show you 'backlinks' or 'outgoing links', or notes that are linked to the present note in either direction; if there is a string of exact text in another note's filename, that will turn up in the 'unlinked mentions' panel, and you can then click on the link button; the `[[` and `]]` will appear automatically in your note in the right place. In this way, structure emerges as you take more notes.
 
+If you type `[[` a modal will pop up and as you type, if that text exists, the note name will appear and you can make a link. If after selectin a note you add `#`  as you go, you can link to a heading in a note; if you type `^` after selecting a note, you can link to a block/paragraph within the note. This is especially handy for transclusion (embedding), see below.
+
 Notes have metadata using the YAML format. Using the templates, you'll always have consistent metadata fields for your notes. YAML looks like this:
 
 ```
@@ -26,7 +28,11 @@ You can embed a note by putting the ! in front of it, eg
 
 ![[finding connections]]
 
-You won't see the text unless you hit the preview button.
+and here's a link to a block within a note:
+
+![[how to ocr an image#^1d3324]]
+
+You won't see the text unless you hit the preview button. 
 
 ## Starred Search 
 
@@ -73,6 +79,10 @@ read -> take notes -> make a 'reading' note about the source as a whole -> refac
 - make a new note, insert template 'atomic-note' for your observations
 - make a 'reading note' for an overview of the entire source; name it with the @ sign convention, follow the template
 
+### Object Character Recognition
+- this vault is set up to do OCR on images; drop the image into the images-for-ocr folder, then hit the `<%` button, select ocr, and follow the prompts. You do have to [[configuring OCR for Mac|configure things]] .
+- but once you have the text, you can turn it into separate notes, add an overview, or whatever you please.
+
 For all notes, you'd be well advised to insert the markdown citation (ctrl+p, citations, markdown citation) that's relevant so you don't lose track of things.
 
 ### Connection Phase 
@@ -88,3 +98,9 @@ For all notes, you'd be well advised to insert the markdown citation (ctrl+p, ci
 - There's a kanban board for turning your tasks into actionable things; I like having three columns, 'to do', 'doing', 'done' and I move (click and drag) items from one to the other as I get them done.
 - There are also some demo queries in the project management folder; if you view them with editing turned on, you'll see how they work - basically, they examine every note's metadata and create tables from that. When preview is turned on, this runs the queries and you can see the results. The ''[[query - how much time is left]]'' query imagines you making a 'project note' to keep track of say an assignment, with a 'due date' in the metadata. The '[[query - what has been cited where]]' query keeps track of which resources you have used for what project, when you add a 'project: ' tag element to that resource's metadata
 - you can also make notes from the search results. Do a search, then hit the copy results button. You can paste the results into a note. 
+
+## Workbench
+
+You can have many different windows and panels open, with multiple notes, search windows, graph view, or what-have-you. When you have things as you like them, hit the 'manage workspace' button, and then save the workspace; give it a sensible name. 
+
+You can have many different workspaces, for different tasks. When you want to switch to a workspace, "oh, I was working on x project, I want that workspace back", you hit the 'manage workspace' button again, and select that saved workspace. Obsidian will reopen all of your panes the way you had them.

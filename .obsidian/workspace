@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a9f1a8fedceba215",
+        "id": "64a954f3a9d0557e",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "3 project management/Demo Kanban.md"
+            "file": "On Taking Notes.md",
+            "mode": "source"
           }
         }
       }
@@ -38,21 +39,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hist5706-paper1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "42aecf16fcef0266",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
@@ -75,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 project management/Demo Kanban.md",
+                "file": "On Taking Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -92,30 +85,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 project management/Demo Kanban.md",
+                "file": "On Taking Notes.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a9f1a8fedceba215",
+  "active": "64a954f3a9d0557e",
   "lastOpenFiles": [
+    "On Taking Notes.md",
+    "A starter vault for student research.md",
+    "Untitled.md",
     "3 project management/Demo Kanban.md",
     "3 project management/demo project note.md",
-    "A starter vault for student research.md",
-    "On Taking Notes.md",
     "_templates/reading-note.md",
     "1 reading notes/@perryEnchantmentArchaeologicalRecord2019.md",
     "1 reading notes/@barrettAgencyDualityStructure2001.md",
     "1 reading notes/@bennettEnchantmentModernLife2001.md",
-    "2 observations/importance of enchantment.md",
-    "0 getting started/Configuring the similar notes template.md"
+    "2 observations/importance of enchantment.md"
   ]
 }
