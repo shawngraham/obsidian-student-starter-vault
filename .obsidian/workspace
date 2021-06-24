@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "62925a1547cafd74",
+        "id": "a9f1a8fedceba215",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "0 getting started/Configuring the similar notes template.md",
-            "mode": "source"
+            "file": "3 project management/Demo Kanban.md"
           }
         }
       }
@@ -39,13 +38,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hist5706-paper1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "42aecf16fcef0266",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -68,14 +75,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 getting started/Configuring the similar notes template.md",
+                "file": "3 project management/Demo Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -85,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 getting started/Configuring the similar notes template.md",
+                "file": "3 project management/Demo Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -96,20 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "62925a1547cafd74",
+  "active": "a9f1a8fedceba215",
   "lastOpenFiles": [
-    "0 getting started/Configuring the similar notes template.md",
-    "2 observations/lorem.md",
-    "2 observations/ipsum.md",
-    "_complex-templates/related.md",
-    "2 observations/amet.md",
+    "3 project management/Demo Kanban.md",
+    "3 project management/demo project note.md",
     "A starter vault for student research.md",
-    "0 getting started/finding connections.md",
-    "0 getting started/configuring OCR for Mac.md",
-    "0 getting started/configuring OCR for Windows.md",
-    "2 observations/dolor.md"
+    "On Taking Notes.md",
+    "_templates/reading-note.md",
+    "1 reading notes/@perryEnchantmentArchaeologicalRecord2019.md",
+    "1 reading notes/@barrettAgencyDualityStructure2001.md",
+    "1 reading notes/@bennettEnchantmentModernLife2001.md",
+    "2 observations/importance of enchantment.md",
+    "0 getting started/Configuring the similar notes template.md"
   ]
 }
