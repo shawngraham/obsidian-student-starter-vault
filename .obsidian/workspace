@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "On Taking Notes.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -47,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "40bba332b551f6d9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "On Taking Notes.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "On Taking Notes.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,15 +108,15 @@
   },
   "active": "64a954f3a9d0557e",
   "lastOpenFiles": [
-    "On Taking Notes.md",
+    "readme.md",
+    "0 getting started/displaying notes on a timelines.md",
     "A starter vault for student research.md",
+    "On Taking Notes.md",
+    "event.md",
+    "2 observations/timeline-source1.md",
     "Untitled.md",
-    "3 project management/Demo Kanban.md",
-    "3 project management/demo project note.md",
-    "_templates/reading-note.md",
-    "1 reading notes/@perryEnchantmentArchaeologicalRecord2019.md",
-    "1 reading notes/@barrettAgencyDualityStructure2001.md",
-    "1 reading notes/@bennettEnchantmentModernLife2001.md",
-    "2 observations/importance of enchantment.md"
+    "displaying notes on a timelines.md",
+    "timeline-source2.md",
+    "timeline-source4.md"
   ]
 }

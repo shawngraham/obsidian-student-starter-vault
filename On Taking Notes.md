@@ -99,6 +99,9 @@ For all notes, you'd be well advised to insert the markdown citation (ctrl+p, ci
 - There are also some demo queries in the project management folder; if you view them with editing turned on, you'll see how they work - basically, they examine every note's metadata and create tables from that. When preview is turned on, this runs the queries and you can see the results. The ''[[query - how much time is left]]'' query imagines you making a 'project note' to keep track of say an assignment, with a 'due date' in the metadata. The '[[query - what has been cited where]]' query keeps track of which resources you have used for what project, when you add a 'project: ' tag element to that resource's metadata
 - you can also make notes from the search results. Do a search, then hit the copy results button. You can paste the results into a note. 
 
+### timelines
+It can be very useful, when you are exploring an archive and trying to work out the sequence of events, to build a timeline. I have added the timelines plugin to this vault. You can make a unique card for each event (there is an 'event' template) and then configure a timeline block in an overview note. See [[displaying notes on a timelines]].
+
 ## Workbench
 
 You can have many different windows and panels open, with multiple notes, search windows, graph view, or what-have-you. When you have things as you like them, hit the 'manage workspace' button, and then save the workspace; give it a sensible name. 
