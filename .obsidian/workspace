@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "64a954f3a9d0557e",
+        "id": "1a3859da1d19ef0b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "A starter vault for student research.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hist5706-paper1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "A starter vault for student research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +93,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "A starter vault for student research.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64a954f3a9d0557e",
+  "active": "1a3859da1d19ef0b",
   "lastOpenFiles": [
-    "readme.md",
-    "0 getting started/displaying notes on a timelines.md",
     "A starter vault for student research.md",
+    "Untitled.md",
     "On Taking Notes.md",
+    "a timeline.md",
+    "0 getting started/displaying notes on a timelines.md",
+    "readme.md",
     "event.md",
     "2 observations/timeline-source1.md",
-    "Untitled.md",
     "displaying notes on a timelines.md",
-    "timeline-source2.md",
-    "timeline-source4.md"
+    "timeline-source2.md"
   ]
 }

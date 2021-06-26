@@ -107,3 +107,4 @@ It can be very useful, when you are exploring an archive and trying to work out 
 You can have many different windows and panels open, with multiple notes, search windows, graph view, or what-have-you. When you have things as you like them, hit the 'manage workspace' button, and then save the workspace; give it a sensible name. 
 
 You can have many different workspaces, for different tasks. When you want to switch to a workspace, "oh, I was working on x project, I want that workspace back", you hit the 'manage workspace' button again, and select that saved workspace. Obsidian will reopen all of your panes the way you had them.
+
