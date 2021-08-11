@@ -1,8 +1,14 @@
-Download, then unzip this folder.
+**note** some of these plugins don't work very well with the obsidian mobile app. I'll make a version for mobile use. If you keep your vault in icloud or dropbox, you'll be able to access your notes across devices. but save the ocr etc for your desktop!
+
+## getting started
+
+wnload, then unzip this folder.
 
 Start Obsidian, 'open new vault', and select this folder
 
 When the warning popup about community plugins & safe mode appears, turn safe mode OFF 
+
+## new around here?
 
 If you're not familiar with obsidian, try opening the 'help/demo' vault that comes bundled with obsidian, make some notes in there, so that you get the hang of things. Pay attention to the tour of the interface, plus how to open multiple notes and rearrange panes before jumping too far into _this_ vault.
 
@@ -23,5 +29,4 @@ Check out [[On Taking Notes]] to get started with the various functions in this 
 The folder [0 getting started] contains information on the various features that are installed, and guidance as necessary.
 
 I think that's it!
-
 
