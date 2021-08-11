@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1a3859da1d19ef0b",
+        "id": "d1321a60150e0add",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A starter vault for student research.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A starter vault for student research.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A starter vault for student research.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a3859da1d19ef0b",
+  "active": "d1321a60150e0add",
   "lastOpenFiles": [
-    "A starter vault for student research.md",
+    "readme.md",
+    "0 getting started/Configuring the related notes template.md",
     "Untitled.md",
     "On Taking Notes.md",
+    "lorem.md",
+    "Where does it come from?.md",
+    "Why do we use it?.md",
+    "A starter vault for student research.md",
     "a timeline.md",
-    "0 getting started/displaying notes on a timelines.md",
-    "readme.md",
-    "event.md",
-    "2 observations/timeline-source1.md",
-    "displaying notes on a timelines.md",
-    "timeline-source2.md"
+    "0 getting started/displaying notes on a timelines.md"
   ]
 }

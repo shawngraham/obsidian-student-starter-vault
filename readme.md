@@ -23,3 +23,5 @@ Check out [[On Taking Notes]] to get started with the various functions in this 
 The folder [0 getting started] contains information on the various features that are installed, and guidance as necessary.
 
 I think that's it!
+
+
