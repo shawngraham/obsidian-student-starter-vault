@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "0 getting started/Configuring the related notes template.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "0 getting started/Configuring the related notes template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "0 getting started/Configuring the related notes template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,14 +108,14 @@
   },
   "active": "d1321a60150e0add",
   "lastOpenFiles": [
-    "readme.md",
     "0 getting started/Configuring the related notes template.md",
+    "A starter vault for student research.md",
+    "readme.md",
     "Untitled.md",
     "On Taking Notes.md",
     "lorem.md",
     "Where does it come from?.md",
     "Why do we use it?.md",
-    "A starter vault for student research.md",
     "a timeline.md",
     "0 getting started/displaying notes on a timelines.md"
   ]

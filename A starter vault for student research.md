@@ -32,6 +32,3 @@ see [[On Taking Notes]]
 
 ## writing an essay
 - have a fresh note in a pinned pane (maybe even keep in a 'writing' folder). search open in another pane. use journey plugin, queries, relevant notes template, graph view, to surface interesting and relevant material. embed in the fresh note atomic thoughts from the other. fill in the blanks around them
-
-
-

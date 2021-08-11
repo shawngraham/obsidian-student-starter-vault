@@ -72,8 +72,8 @@ On a windows machine, it might look something like
 rootdir = "C:\Users\Draykoth\Documents\student-starter-vault\" #PUT THE DIRECTORY TO YOUR VAULT ROOT HERE !!!
 ```
 
-## Enjoy 
+## Using the Related Notes Template 
 
-Now, with Obsidian open on a note of interest, put your cursor at the end of the note and select the `<%` button from the toolbar. Choose `related` and select whichever file in your vault you want to find similar notes for.
+Now, with Obsidian open on a note of interest, put your cursor at the end of the note (or in a brand new empty note), and select the `<%` button from the toolbar. Choose `related` and select whichever file in your vault you want to find similar notes for.
 
-Caveat: I haven't tested this on a windows machine yet, June 19 2021.
+Caveat: I haven't tested this on a windows machine yet, August 11 2021.
