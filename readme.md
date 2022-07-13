@@ -1,3 +1,5 @@
+[edit summer 2022] - there's a lot going on in this vault. If you're new to Obsidian, maybe give [this one a try instead](https://github.com/shawngraham/simple-vault)
+
 **note** some of these plugins don't work very well with the obsidian mobile app. I'll make a version for mobile use. If you keep your vault in icloud or dropbox, you'll be able to access your notes across devices. but save the ocr etc for your desktop!
 
 ## getting started
